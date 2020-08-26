@@ -1,0 +1,31 @@
+.home_background {
+  background: url("../images/landing_page.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  width: 100%;
+}
+/* .box {
+  position: relative;
+} */
+.text_box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  color: #fff;
+  text-align: center;
+}
+.never_text {
+  font-family: "Rock Salt", cursive;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.it_text {
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 3px;
+  margin-bottom: 10px;
+}
+.tagline {
+  font-family: "Titillium Web", sans-serif;
+}

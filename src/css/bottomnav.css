@@ -1,0 +1,7 @@
+.bottomnav {
+  height: 100px;
+  width: 100%;
+  background-color: gray;
+  position: fixed;
+  bottom: 0;
+}
