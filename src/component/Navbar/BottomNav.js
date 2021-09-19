@@ -15,7 +15,7 @@ const StyledBottomNav = styled.div`
 
     width: 100%;
     background-color: #fff;
-    position: sticky;
+    position: ;
     bottom: 0;
     padding: 10px 0;
 
